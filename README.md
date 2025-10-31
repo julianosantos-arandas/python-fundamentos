@@ -1,4 +1,4 @@
-# 🦆 Python Fundamentals 
+# Python Fundamentals 
 This repository contains my initial Python studies and exercises, with a focus on programming logic, data analysis, and the fundamentals of data engineering.
 
 ## 🎯 Objective
