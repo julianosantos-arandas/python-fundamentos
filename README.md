@@ -1,8 +1,8 @@
 # Python Fundamentals 
-This repository contains my initial Python studies and exercises, with a focus on programming logic, data analysis, and the fundamentals of data engineering.
+This repository contains my initial Python studies and exercises, with a focus on programming logic.
 
 ## 🎯 Objective
-To build a solid foundation for entering the Systems Analysis and Development (ADS) program to pursue a future career as a Data Engineer.
+To build a solid foundation for entering the Systems Analysis and Development (ADS) program to pursue a future career as a Programmer.
 
 ## 📘 Topics Covered 
 - Variables and data types   
